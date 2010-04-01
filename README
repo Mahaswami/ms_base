@@ -1,0 +1,11 @@
+MsBase
+======
+
+This plugin is used to determine the running database name.
+i.e to determine the application database (mysql or oracle or db2)
+
+This plugin will help us to write some cross db support, where we 
+need to do some action based on the running database. 
+
+
+Copyright (c) 2010 [name of plugin creator], released under the MIT license
